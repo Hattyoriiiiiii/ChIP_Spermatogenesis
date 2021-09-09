@@ -21,7 +21,9 @@
 - A-MYB
 - Unknown
   - [Transcriptomic and epigenetic profiling of genome control in the germline stem cell cycle in mice](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116798)
-
+- Scml2, Bmi1, ubH2A
+  - [SCML2 Establishes the Male Germline Epigenome]
+  - [GSE55060](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55060)
 
 <br>
 
