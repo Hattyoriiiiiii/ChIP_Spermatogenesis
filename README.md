@@ -11,6 +11,7 @@
 | 03 | [Bai et al., 2018](https://doi.org/10.1242%2Fdev.164855) | Mus musculus (C57BL/6) | WT testes (P28) |  | **Sox30** | BioProject [PRJNA433934](https://www.ncbi.nlm.nih.gov/bioproject/433934) | ChIP-seq | PE | 38.8M | 10.9G |  | HiSeq X Ten |  |
 | 04 | [Murphy et al., 2015](https://www.sciencedirect.com/science/article/pii/S1534580720300113#bib51) |  |  |  | **Dmrt1** | GEO [GSE64892](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64892) |  |  |  |  |  |  |  |
 | 05 | [Takada Y et al., 2021](https://www.nature.com/articles/s41467-021-23378-4) | Mus musculus (C57BL/6) | WT testes (P18-19) | meiotic prophase of mouse spermatocytes | **Zfp541** | GEO [GSE163916](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163916) | ChIP-seq | 50 SE |  |  | KAPA Library Preparation Kit | Hiseq 1500 |  |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 
 
 <br>
