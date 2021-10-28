@@ -25,6 +25,11 @@
   - [SCML2 Establishes the Male Germline Epigenome]
   - [GSE55060](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55060)
 
+DMRT1(accession number: GSE64892)
+DMRT6(accession number: GSE60440)
+A-MYB(accession number: GSE44588)
+RFX2(accession number: GSE68282)
+
 <br>
 
 ## Analysis Reports
