@@ -16,6 +16,35 @@
 
 <br>
 
+## Histone modification
+- H3K27ac
+-  H3K27me3 : [GSE89502](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89502)
+  -  Thy1 - rep1,2
+  -  Kit - rep1
+  -  PS
+  -  RS
+-  H3K36me2 : 
+-  H3K36me3
+-  H3K4me1
+-  H3K4me2 : [GSE89502](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89502)
+  -  Thy1
+  -  Kit - rep1
+  -  PS
+  -  RS
+-  H3K4me3 : [GSE89502](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89502)
+  - Thy1
+  - PS
+  - RS
+- H3K9ac
+- H3K9me2
+  - PS
+  - RS
+- H3K9me3
+  - Thy1
+  - Kit
+  - PS
+  - RS
+
 ## Others
 
 - A-MYB
